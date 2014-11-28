@@ -1,0 +1,34 @@
+{
+  "name": "fluxe",
+  "version": "0.1.0",
+  "description": "A wrapper on top of Facebook's Flux dispatcher to make it easier to work with stores and actions within the Flux architecture",
+  "keywords": [
+    "flux",
+    "react",
+    "fluxe"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryanzec/fluxe"
+  },
+  "bugs": {
+    "url": "https://github.com/ryanzec/fluxe/issues"
+  },
+  "license" : "MIT",
+  "author": {
+    "name" : "Ryan Zec",
+    "email" : "code@ryanzec.com",
+    "url" : "http://www.ryanzec.com"
+  },
+  "dependencies": {
+    "eventemitter3": "0.1.x",
+    "lodash": "2.4.x",
+    "object-assign": "2.0.x",
+    "flux": "2.0.x"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.10.25"
+  },
+  "main": "lib/index.js"
+}
