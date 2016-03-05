@@ -1,3 +1,5 @@
+**The landscape of flux implementations have changed since I created this project and there is now an implementation that I feel is a really good one.  I am no longer going to maintain this project and recommend everyone to use Redux (https://github.com/reactjs/redux) instead.**
+
 # Fluxe
 
 Fluxe is a wrapper built on top of Facebook's dispatcher to make it easy to work with stores and action within the Flux architecture.
